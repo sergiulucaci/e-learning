@@ -25,11 +25,13 @@ http://localhost:3000
 
 Node version preferred: `v8.9.1`.
 
+#
+
 **Main things you must know about this project**
 
 1] This E-Learning Test Platform is focused more on the client side. 
 
-2] For the API is used `json-server` package, so there's no needed yet a backend service.
+2] For the API is used [json-server](https://github.com/typicode/json-server) package, so there's no needed yet a backend service.
 
 3] Both `Students` and `Teachers` are already added. `CRUD` operations for those models can be marked as `todo` feature.
 
