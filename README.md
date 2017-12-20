@@ -1,5 +1,5 @@
 # e-learning
-E-learning | Testing platform
+E-Learning | Testing platform
 
 **Setup**
 
@@ -43,5 +43,5 @@ Node version preferred: `v8.9.1`.
 
 7] As a `Teacher`, you can update only unassigned quizzes.
 
-8] This E-Learning platform assumes that all the quizzes refers to one Semester, and the `Student`'s average that can be retrieved by the `Teacher` is the average for all quizzes assigned to that `Student`.
+8] This E-Learning Test Platform assumes that all the quizzes refers to one Semester, and the `Student`'s average that can be retrieved by the `Teacher` is the average for all quizzes assigned to that `Student`.
 
