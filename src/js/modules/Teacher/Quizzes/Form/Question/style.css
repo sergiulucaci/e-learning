@@ -1,0 +1,17 @@
+.hr-question {
+  margin-top: 4rem;
+}
+
+.question-control {
+  float: right;
+  margin-top: 1.5rem;
+}
+
+.quiz-option {
+  margin-bottom: 0.5rem;
+}
+
+.remove-option-control {
+  cursor: pointer;
+  margin-top: 1rem;
+}

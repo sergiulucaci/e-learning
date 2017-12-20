@@ -1,0 +1,340 @@
+{
+  "quizzes": [
+    {
+      "id": "Bkfh_kOzz",
+      "assignees": [
+        1
+      ],
+      "title": "History - 20th Century",
+      "questions": [
+        {
+          "id": 1,
+          "title": "Which date interval is related to 20th Century?",
+          "options": [
+            {
+              "id": 1,
+              "title": "January 1, 1901 - December 31, 2000"
+            },
+            {
+              "id": 2,
+              "title": "January 1, 1900 - December 31, 2000"
+            },
+            {
+              "id": 3,
+              "title": "January 1, 1901 - December 31, 1999"
+            },
+            {
+              "id": 4,
+              "title": "January 1, 1900 - December 31, 1999"
+            }
+          ],
+          "correctAnswer": [
+            {
+              "label": "January 1, 1901 - December 31, 2000",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Which date interval is related to World War I?",
+          "options": [
+            {
+              "id": 1,
+              "title": "July 20, 1914 - November 11, 1918"
+            },
+            {
+              "id": 2,
+              "title": "July 28, 1914 - November 11, 1918"
+            },
+            {
+              "id": 3,
+              "title": "July 28, 1915 - November 11, 1918"
+            }
+          ],
+          "correctAnswer": [
+            {
+              "label": "July 28, 1914 - November 11, 1918",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Which date interval is related to World War II?",
+          "options": [
+            {
+              "id": 1,
+              "title": "1940 - 1945"
+            },
+            {
+              "id": 2,
+              "title": "1939 - 1945"
+            },
+            {
+              "id": 3,
+              "title": "1940 - 1944"
+            }
+          ],
+          "correctAnswer": [
+            {
+              "label": "1939 - 1945",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "World War I is known as... ",
+          "options": [
+            {
+              "id": 1,
+              "title": "First World War"
+            },
+            {
+              "id": 2,
+              "title": "Great War"
+            },
+            {
+              "id": 3,
+              "title": "War to End All Wars"
+            }
+          ],
+          "correctAnswer": [
+            {
+              "label": "First World War",
+              "value": 1
+            },
+            {
+              "label": "Great War",
+              "value": 2
+            },
+            {
+              "label": "War to End All Wars",
+              "value": 3
+            }
+          ]
+        }
+      ],
+      "teacherId": 1
+    },
+    {
+      "id": "SJ6aCkOfz",
+      "assignees": [
+        2,
+        4,
+        1
+      ],
+      "title": "Math - Various",
+      "questions": [
+        {
+          "id": 1,
+          "title": "Mr. Jones sold two pipes at $1.20 each. Based on the cost, his profit one was 20% and his loss on the other was 20%. On the sale of the pipes, he:",
+          "options": [
+            {
+              "id": 1,
+              "title": "Broke even"
+            },
+            {
+              "id": 2,
+              "title": "Lost 4 cents"
+            },
+            {
+              "id": 3,
+              "title": "Gained 4 cents"
+            },
+            {
+              "id": 4,
+              "title": "Gained 10 cents"
+            }
+          ],
+          "correctAnswer": [
+            {
+              "label": "Broke even",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "The distance light travels in one year is approximately 5,870,000,000,000 miles. The distance light travels in 100 years is:",
+          "options": [
+            {
+              "id": 2,
+              "title": "587 × 10^10 miles"
+            },
+            {
+              "id": 3,
+              "title": "587 × 10^-10 miles"
+            },
+            {
+              "id": 4,
+              "title": "587 × 10^12 miles"
+            },
+            {
+              "id": 5,
+              "title": "587 × 10^-12 miles "
+            }
+          ],
+          "correctAnswer": [
+            {
+              "label": "587 × 10^12 miles",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "If (0.2)^x = 2 and log 2 = 0.3010, then the value of x to the nearest tenth is:",
+          "options": [
+            {
+              "id": 1,
+              "title": "-10.0"
+            },
+            {
+              "id": 2,
+              "title": " -0.5"
+            },
+            {
+              "id": 3,
+              "title": " -0.2"
+            },
+            {
+              "id": 4,
+              "title": "10.0"
+            },
+            {
+              "id": 5,
+              "title": "-0.4"
+            }
+          ],
+          "correctAnswer": [
+            {
+              "label": "-0.4",
+              "value": 5
+            }
+          ]
+        }
+      ],
+      "teacherId": 1
+    },
+    {
+      "id": "HJjlGzuGf",
+      "assignees": [
+        6
+      ],
+      "title": "test",
+      "questions": [],
+      "teacherId": 1
+    }
+  ],
+  "responses": [
+    {
+      "id": "SyF3AkOMf",
+      "quizId": "Bkfh_kOzz",
+      "studentId": 1,
+      "answers": [
+        {
+          "questionId": 1,
+          "selected": []
+        },
+        {
+          "questionId": 2,
+          "selected": []
+        },
+        {
+          "questionId": 3,
+          "selected": []
+        },
+        {
+          "questionId": 4,
+          "selected": []
+        }
+      ],
+      "teacherId": 1,
+      "grade": 0
+    },
+    {
+      "id": "HyrlZxdGz",
+      "quizId": "SJ6aCkOfz",
+      "studentId": 1,
+      "answers": [
+        {
+          "questionId": 1,
+          "selected": []
+        },
+        {
+          "questionId": 2,
+          "selected": []
+        },
+        {
+          "questionId": 3,
+          "selected": []
+        }
+      ],
+      "teacherId": 1,
+      "grade": 0
+    },
+    {
+      "id": "S1xwTM_Gf",
+      "quizId": "SJ6aCkOfz",
+      "studentId": 2,
+      "answers": [
+        {
+          "questionId": 1,
+          "selected": []
+        },
+        {
+          "questionId": 2,
+          "selected": []
+        },
+        {
+          "questionId": 3,
+          "selected": []
+        }
+      ],
+      "teacherId": 1,
+      "grade": 0
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "name": "Leonida Linde"
+    },
+    {
+      "id": 2,
+      "name": "Catrina Mumaw"
+    },
+    {
+      "id": 3,
+      "name": "Colene Quigley"
+    },
+    {
+      "id": 4,
+      "name": "Mathilda Gayden"
+    },
+    {
+      "id": 5,
+      "name": "Toney Gravely"
+    },
+    {
+      "id": 6,
+      "name": "Darren Nagao"
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Danille Lawalin"
+    },
+    {
+      "id": 2,
+      "name": "Florence Granata"
+    },
+    {
+      "id": 3,
+      "name": "Andrea Farmer"
+    }
+  ]
+}

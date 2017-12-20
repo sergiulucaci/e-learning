@@ -1,0 +1,16 @@
+.goback-control {
+  margin-bottom: 2rem;
+}
+
+.quiz-control {
+  margin-right: 1rem;
+}
+
+.quiz-controls-section {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.remove-control {
+  float: right;
+}
