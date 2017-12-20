@@ -1,0 +1,15 @@
+span {
+  cursor: pointer;
+}
+
+.active {
+  font-weight: 600;
+}
+
+.teacher-sub-header {
+  text-align: center;
+}
+
+.teacher-sub-header-item {
+  cursor: pointer;
+}

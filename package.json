@@ -1,0 +1,38 @@
+{
+  "name": "E-learning",
+  "version": "1.0.0",
+  "description": "E-learning test platform.",
+  "private": true,
+  "main": "index.js",
+  "author": "Sergiu Lucaci <sergius.lucaci@gmail.com>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "webpack",
+    "dev": "webpack-dev-server",
+    "mocking-api": "json-server -p 3001 src/js/api/db.json"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-es2015-destructuring": "^6.23.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.7",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "file-loader": "^1.1.6",
+    "html-webpack-plugin": "^2.30.1",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.7"
+  },
+  "dependencies": {
+    "json-server": "^0.12.1",
+    "prop-types": "^15.6.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-select": "^1.1.0",
+    "shortid": "^2.2.8",
+    "superagent": "^3.8.2"
+  }
+}

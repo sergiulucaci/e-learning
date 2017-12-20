@@ -1,0 +1,26 @@
+body {
+  background: #f9fafb;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+
+#app {
+  /*overflow-x: hidden;*/
+}
+
+.base {
+  padding: 4rem;
+}
+
+.image {
+  width: 150px;
+  height: auto;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.user-item {
+  cursor: pointer;
+}
