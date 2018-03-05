@@ -15,7 +15,7 @@ npm run mocking-api
 
 3] Open another terminal tab. Start client server (default port is 3000):
 ```
-npm install
+npm run dev
 ```
 
 4] Open your browser on:
